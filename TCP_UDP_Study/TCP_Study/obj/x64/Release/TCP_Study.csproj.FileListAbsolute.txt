@@ -8,3 +8,7 @@ C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\TCP_Study\
 C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\TCP_Study\obj\x64\Release\TCP_Study.csproj.CoreCompileInputs.cache
 C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\TCP_Study\obj\x64\Release\TCP_Study.exe
 C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\TCP_Study\obj\x64\Release\TCP_Study.pdb
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\TCP_Study\obj\x64\Release\TCP_Study.exe.config
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\TCP_Study\bin\x64\Release\COMMON.dll
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\TCP_Study\bin\x64\Release\COMMON.pdb
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\TCP_Study\obj\x64\Release\TCP_Study.csproj.Up2Date

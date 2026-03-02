@@ -3,6 +3,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Common.Network;
 
 namespace TcpClientExample
 {
@@ -65,11 +66,25 @@ namespace TcpClientExample
 
             try
             {
-                // 문자열을 Byte 배열로 변환 후 전송
-                byte[] data = Encoding.UTF8.GetBytes(message);
-                await _stream.WriteAsync(data, 0, data.Length);
-                Log($"📤 전송: {message}");
-                txtInput.Clear();
+                // 1. 보낼 데이터 세팅
+                FragmentPacket myPacket = new FragmentPacket
+                {
+                    FragmentId = 1,
+                    SequenceNumber = 100,
+                    PayloadSize = 16,
+                    Timestamp = 12345.678,
+                    Data = new byte[16] { 1, 2, 3, 4,5,6,7,8,9,10,11,12,13,14,15,16 /* ... */ } // 테스트용 데이터
+                };
+
+                // 2. 네트워크 바이트 오더(Big-Endian)로 변환
+                FragmentPacket swappedPacket = EndianConverter.SwapStruct(myPacket);
+
+                // 3. 구조체를 바이트 배열로 직렬화
+                byte[] dataToSend = PacketSerializer.StructureToByteArray(swappedPacket);
+
+                // 4. 전송!
+                await _stream.WriteAsync(dataToSend, 0, dataToSend.Length);
+                Log($"📤 구조체 전송 완료 (크기: {dataToSend.Length} bytes)");
             }
             catch (Exception ex)
             {

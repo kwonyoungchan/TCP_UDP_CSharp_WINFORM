@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Common.Network;
+using System;
 using System.Collections.Generic;
 using System.Net;
 using System.Net.Sockets;
@@ -70,19 +71,22 @@ namespace TcpServerExample
                 {
                     while (true)
                     {
-                        // 클라이언트가 보낸 데이터를 비동기로 읽어옵니다.
                         int bytesRead = await stream.ReadAsync(buffer, 0, buffer.Length);
+                        if (bytesRead == 0) break;
 
-                        // 읽은 바이트가 0이면 클라이언트가 연결을 정상적으로 종료한 것입니다.
-                        if (bytesRead == 0)
-                        {
-                            Log("👋 클라이언트와 연결이 끊어졌습니다.");
-                            break;
-                        }
+                        // 1. 수신한 바이트 배열을 구조체로 역직렬화
+                        // (주의: 실제 환경에서는 패킷 짤림 방지를 위해 정확히 구조체 크기만큼 모아서 변환해야 합니다)
+                        FragmentPacket receivedSwappedPacket = PacketSerializer.ByteArrayToStructure<FragmentPacket>(buffer);
 
-                        // Byte 배열을 문자열로 변환하여 화면에 출력
-                        string receivedData = Encoding.UTF8.GetString(buffer, 0, bytesRead);
-                        Log($"📩 수신: {receivedData}");
+                        // 2. 호스트 바이트 오더(Little-Endian)로 원상 복구
+                        FragmentPacket finalPacket = EndianConverter.SwapStruct(receivedSwappedPacket);
+
+                        Log($"📩 수신 ID: {finalPacket.FragmentId}");
+                        Log($"📩 수신 SequenceNumber: {finalPacket.SequenceNumber}");
+                        Log($"📩 수신 PayloadSize: {finalPacket.PayloadSize}");
+                        Log($"📩 수신 Timestamp: {finalPacket.Timestamp}");
+                        Log($"📩 수신 Data: {finalPacket.Data}");
+
                     }
                 }
                 catch (Exception ex)
