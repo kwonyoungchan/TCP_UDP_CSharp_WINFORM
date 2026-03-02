@@ -1,0 +1,12 @@
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\UDP_Study_Server\obj\x64\Debug\UDP_Study_Server.csproj.AssemblyReference.cache
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\UDP_Study_Server\obj\x64\Debug\UDP_Study_Server.Properties.Resources.resources
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\UDP_Study_Server\obj\x64\Debug\UdpCommunicationExample.UdpReceiverForm.resources
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\UDP_Study_Server\obj\x64\Debug\UDP_Study_Server.csproj.GenerateResource.cache
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\UDP_Study_Server\obj\x64\Debug\UDP_Study_Server.csproj.CoreCompileInputs.cache
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\bin\x64\Debug\UDP_Study_Server.exe.config
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\bin\x64\Debug\UDP_Study_Server.exe
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\bin\x64\Debug\UDP_Study_Server.pdb
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\UDP_Study_Server\obj\x64\Debug\UDP_Stud.B89CB330.Up2Date
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\UDP_Study_Server\obj\x64\Debug\UDP_Study_Server.exe
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\UDP_Study_Server\obj\x64\Debug\UDP_Study_Server.pdb
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\UDP_Study_Server\obj\x64\Debug\UDP_Study_Server.exe.config

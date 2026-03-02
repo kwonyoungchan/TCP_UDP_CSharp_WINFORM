@@ -3,12 +3,97 @@
   "WorkspaceRootPath": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F40F9EE-70E2-40B5-A354-C316ACEEAACB}|TCP_Study\\TCP_Study.csproj|C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\tcp_study\\serverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F40F9EE-70E2-40B5-A354-C316ACEEAACB}|TCP_Study\\TCP_Study.csproj|solutionrelative:tcp_study\\serverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAD1B108-CC88-42D9-928B-F77BB0122381}|UDP_Study_Client\\UDP_Study_Client.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_study_client\\udpsenderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD1B108-CC88-42D9-928B-F77BB0122381}|UDP_Study_Client\\UDP_Study_Client.csproj|solutionrelative:udp_study_client\\udpsenderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{606E8FD4-B660-475B-A891-82185C7CAD8A}|COMMON\\COMMON.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\common\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606E8FD4-B660-475B-A891-82185C7CAD8A}|COMMON\\COMMON.csproj|solutionrelative:common\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAD1B108-CC88-42D9-928B-F77BB0122381}|UDP_Study_Client\\UDP_Study_Client.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_study_client\\udpsenderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAD1B108-CC88-42D9-928B-F77BB0122381}|UDP_Study_Client\\UDP_Study_Client.csproj|solutionrelative:udp_study_client\\udpsenderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD1B108-CC88-42D9-928B-F77BB0122381}|UDP_Study_Client\\UDP_Study_Client.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_study_client\\udpsenderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD1B108-CC88-42D9-928B-F77BB0122381}|UDP_Study_Client\\UDP_Study_Client.csproj|solutionrelative:udp_study_client\\udpsenderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DF8B87-3B1C-4D05-9405-20BD094C0E5F}|UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_monitoring_server\\submonitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DF8B87-3B1C-4D05-9405-20BD094C0E5F}|UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj|solutionrelative:udp_monitoring_server\\submonitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DF8B87-3B1C-4D05-9405-20BD094C0E5F}|UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_monitoring_server\\mainmonitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DF8B87-3B1C-4D05-9405-20BD094C0E5F}|UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj|solutionrelative:udp_monitoring_server\\mainmonitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DF8B87-3B1C-4D05-9405-20BD094C0E5F}|UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_monitoring_server\\mainmonitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9DF8B87-3B1C-4D05-9405-20BD094C0E5F}|UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj|solutionrelative:udp_monitoring_server\\mainmonitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DF8B87-3B1C-4D05-9405-20BD094C0E5F}|UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_monitoring_server\\submonitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9DF8B87-3B1C-4D05-9405-20BD094C0E5F}|UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj|solutionrelative:udp_monitoring_server\\submonitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DF8B87-3B1C-4D05-9405-20BD094C0E5F}|UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_monitoring_server\\submonitorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DF8B87-3B1C-4D05-9405-20BD094C0E5F}|UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj|solutionrelative:udp_monitoring_server\\submonitorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DF8B87-3B1C-4D05-9405-20BD094C0E5F}|UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_monitoring_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DF8B87-3B1C-4D05-9405-20BD094C0E5F}|UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj|solutionrelative:udp_monitoring_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DF8B87-3B1C-4D05-9405-20BD094C0E5F}|UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_monitoring_server\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DF8B87-3B1C-4D05-9405-20BD094C0E5F}|UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj|solutionrelative:udp_monitoring_server\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DF8B87-3B1C-4D05-9405-20BD094C0E5F}|UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_monitoring_server\\mainmonitorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DF8B87-3B1C-4D05-9405-20BD094C0E5F}|UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj|solutionrelative:udp_monitoring_server\\mainmonitorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606E8FD4-B660-475B-A891-82185C7CAD8A}|COMMON\\COMMON.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\common\\packetmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606E8FD4-B660-475B-A891-82185C7CAD8A}|COMMON\\COMMON.csproj|solutionrelative:common\\packetmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606E8FD4-B660-475B-A891-82185C7CAD8A}|COMMON\\COMMON.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\common\\endianconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606E8FD4-B660-475B-A891-82185C7CAD8A}|COMMON\\COMMON.csproj|solutionrelative:common\\endianconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606E8FD4-B660-475B-A891-82185C7CAD8A}|COMMON\\COMMON.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\common\\packetserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606E8FD4-B660-475B-A891-82185C7CAD8A}|COMMON\\COMMON.csproj|solutionrelative:common\\packetserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UDP_Monitoring_Server||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UDP_Study_Client||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UDP_Study_Server||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35850C0D-7997-4FC6-961C-CA21DBFDF7E5}|UDP_Study_Server\\UDP_Study_Server.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_study_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35850C0D-7997-4FC6-961C-CA21DBFDF7E5}|UDP_Study_Server\\UDP_Study_Server.csproj|solutionrelative:udp_study_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD1B108-CC88-42D9-928B-F77BB0122381}|UDP_Study_Client\\UDP_Study_Client.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_study_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD1B108-CC88-42D9-928B-F77BB0122381}|UDP_Study_Client\\UDP_Study_Client.csproj|solutionrelative:udp_study_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35850C0D-7997-4FC6-961C-CA21DBFDF7E5}|UDP_Study_Server\\UDP_Study_Server.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_study_server\\udpreceiverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35850C0D-7997-4FC6-961C-CA21DBFDF7E5}|UDP_Study_Server\\UDP_Study_Server.csproj|solutionrelative:udp_study_server\\udpreceiverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35850C0D-7997-4FC6-961C-CA21DBFDF7E5}|UDP_Study_Server\\UDP_Study_Server.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_study_server\\udpreceiverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35850C0D-7997-4FC6-961C-CA21DBFDF7E5}|UDP_Study_Server\\UDP_Study_Server.csproj|solutionrelative:udp_study_server\\udpreceiverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35850C0D-7997-4FC6-961C-CA21DBFDF7E5}|UDP_Study_Server\\UDP_Study_Server.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_study_server\\udpreceiverform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{35850C0D-7997-4FC6-961C-CA21DBFDF7E5}|UDP_Study_Server\\UDP_Study_Server.csproj|solutionrelative:udp_study_server\\udpreceiverform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35850C0D-7997-4FC6-961C-CA21DBFDF7E5}|UDP_Study_Server\\UDP_Study_Server.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_study_server\\udpreceiverform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35850C0D-7997-4FC6-961C-CA21DBFDF7E5}|UDP_Study_Server\\UDP_Study_Server.csproj|solutionrelative:udp_study_server\\udpreceiverform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F40F9EE-70E2-40B5-A354-C316ACEEAACB}|TCP_Study\\TCP_Study.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\tcp_study\\serverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F40F9EE-70E2-40B5-A354-C316ACEEAACB}|TCP_Study\\TCP_Study.csproj|solutionrelative:tcp_study\\serverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F40F9EE-70E2-40B5-A354-C316ACEEAACB}|TCP_Study\\TCP_Study.csproj|C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\tcp_study\\serverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -21,7 +106,7 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|COMMON||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F40F9EE-70E2-40B5-A354-C316ACEEAACB}|TCP_Study\\TCP_Study.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\tcp_study\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F40F9EE-70E2-40B5-A354-C316ACEEAACB}|TCP_Study\\TCP_Study.csproj|C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\tcp_study\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F40F9EE-70E2-40B5-A354-C316ACEEAACB}|TCP_Study\\TCP_Study.csproj|solutionrelative:tcp_study\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -41,10 +126,13 @@
       "RelativeMoniker": "D:0:0:{1F40F9EE-70E2-40B5-A354-C316ACEEAACB}|TCP_Study\\TCP_Study.csproj|solutionrelative:tcp_study\\serverform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F40F9EE-70E2-40B5-A354-C316ACEEAACB}|TCP_Study\\TCP_Study.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\tcp_study\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+      "AbsoluteMoniker": "D:0:0:{35850C0D-7997-4FC6-961C-CA21DBFDF7E5}|UDP_Study_Server\\UDP_Study_Server.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_study_server\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{606E8FD4-B660-475B-A891-82185C7CAD8A}|COMMON\\COMMON.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\common\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+      "AbsoluteMoniker": "D:0:0:{FAD1B108-CC88-42D9-928B-F77BB0122381}|UDP_Study_Client\\UDP_Study_Client.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_study_client\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DF8B87-3B1C-4D05-9405-20BD094C0E5F}|UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj|c:\\users\\yckwon\\documents\\github\\tcp_udp_csharp_winform\\tcp_udp_study\\udp_monitoring_server\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,48 +142,324 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PacketSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\COMMON\\PacketSerializer.cs",
+              "RelativeDocumentMoniker": "COMMON\\PacketSerializer.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\COMMON\\PacketSerializer.cs",
+              "RelativeToolTip": "COMMON\\PacketSerializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T17:03:03.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EndianConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\COMMON\\EndianConverter.cs",
+              "RelativeDocumentMoniker": "COMMON\\EndianConverter.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\COMMON\\EndianConverter.cs",
+              "RelativeToolTip": "COMMON\\EndianConverter.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T17:01:54.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UDP_Monitoring_Server",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj",
+              "RelativeDocumentMoniker": "UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj",
+              "RelativeToolTip": "UDP_Monitoring_Server\\UDP_Monitoring_Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-02T16:45:29.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubMonitorForm.cs",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\SubMonitorForm.cs",
+              "RelativeDocumentMoniker": "UDP_Monitoring_Server\\SubMonitorForm.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\SubMonitorForm.cs",
+              "RelativeToolTip": "UDP_Monitoring_Server\\SubMonitorForm.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:44:28.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubMonitorForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\SubMonitorForm.Designer.cs",
+              "RelativeDocumentMoniker": "UDP_Monitoring_Server\\SubMonitorForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\SubMonitorForm.Designer.cs",
+              "RelativeToolTip": "UDP_Monitoring_Server\\SubMonitorForm.Designer.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:44:15.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubMonitorForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\SubMonitorForm.cs",
+              "RelativeDocumentMoniker": "UDP_Monitoring_Server\\SubMonitorForm.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\SubMonitorForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "UDP_Monitoring_Server\\SubMonitorForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:44:10.444Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainMonitorForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\MainMonitorForm.Designer.cs",
+              "RelativeDocumentMoniker": "UDP_Monitoring_Server\\MainMonitorForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\MainMonitorForm.Designer.cs",
+              "RelativeToolTip": "UDP_Monitoring_Server\\MainMonitorForm.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:42:16.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "MainMonitorForm.cs",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\MainMonitorForm.cs",
+              "RelativeDocumentMoniker": "UDP_Monitoring_Server\\MainMonitorForm.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\MainMonitorForm.cs",
+              "RelativeToolTip": "UDP_Monitoring_Server\\MainMonitorForm.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAiwF8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:40:32.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\Program.cs",
+              "RelativeDocumentMoniker": "UDP_Monitoring_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\Program.cs",
+              "RelativeToolTip": "UDP_Monitoring_Server\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:39:30.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\DataManager.cs",
+              "RelativeDocumentMoniker": "UDP_Monitoring_Server\\DataManager.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\DataManager.cs",
+              "RelativeToolTip": "UDP_Monitoring_Server\\DataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:39:46.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMonitorForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\MainMonitorForm.cs",
+              "RelativeDocumentMoniker": "UDP_Monitoring_Server\\MainMonitorForm.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Monitoring_Server\\MainMonitorForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "UDP_Monitoring_Server\\MainMonitorForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:39:26.812Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Server\\Program.cs",
+              "RelativeDocumentMoniker": "UDP_Study_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Server\\Program.cs",
+              "RelativeToolTip": "UDP_Study_Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:12:04.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Client\\Program.cs",
+              "RelativeDocumentMoniker": "UDP_Study_Client\\Program.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Client\\Program.cs",
+              "RelativeToolTip": "UDP_Study_Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:11:08.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UDP_Study_Client",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Client\\UDP_Study_Client.csproj",
+              "RelativeDocumentMoniker": "UDP_Study_Client\\UDP_Study_Client.csproj",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Client\\UDP_Study_Client.csproj",
+              "RelativeToolTip": "UDP_Study_Client\\UDP_Study_Client.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-02T16:10:36.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UDP_Study_Server",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Server\\UDP_Study_Server.csproj",
+              "RelativeDocumentMoniker": "UDP_Study_Server\\UDP_Study_Server.csproj",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Server\\UDP_Study_Server.csproj",
+              "RelativeToolTip": "UDP_Study_Server\\UDP_Study_Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-02T16:10:00.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UdpSenderForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Client\\UdpSenderForm.Designer.cs",
+              "RelativeDocumentMoniker": "UDP_Study_Client\\UdpSenderForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Client\\UdpSenderForm.Designer.cs",
+              "RelativeToolTip": "UDP_Study_Client\\UdpSenderForm.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:08:56.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UdpReceiverForm.resx",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Server\\UdpReceiverForm.resx",
+              "RelativeDocumentMoniker": "UDP_Study_Server\\UdpReceiverForm.resx",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Server\\UdpReceiverForm.resx",
+              "RelativeToolTip": "UDP_Study_Server\\UdpReceiverForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-02T16:08:50.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UdpReceiverForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Server\\UdpReceiverForm.Designer.cs",
+              "RelativeDocumentMoniker": "UDP_Study_Server\\UdpReceiverForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Server\\UdpReceiverForm.Designer.cs",
+              "RelativeToolTip": "UDP_Study_Server\\UdpReceiverForm.Designer.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAcwL0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:08:37.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UdpSenderForm.cs",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Client\\UdpSenderForm.cs",
+              "RelativeDocumentMoniker": "UDP_Study_Client\\UdpSenderForm.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Client\\UdpSenderForm.cs",
+              "RelativeToolTip": "UDP_Study_Client\\UdpSenderForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA6wCkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:03:00.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UdpReceiverForm.cs",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Server\\UdpReceiverForm.cs",
+              "RelativeDocumentMoniker": "UDP_Study_Server\\UdpReceiverForm.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Server\\UdpReceiverForm.cs",
+              "RelativeToolTip": "UDP_Study_Server\\UdpReceiverForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:01:55.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UdpSenderForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Client\\UdpSenderForm.cs",
+              "RelativeDocumentMoniker": "UDP_Study_Client\\UdpSenderForm.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Client\\UdpSenderForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "UDP_Study_Client\\UdpSenderForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:01:19.274Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UdpReceiverForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Server\\UdpReceiverForm.cs",
+              "RelativeDocumentMoniker": "UDP_Study_Server\\UdpReceiverForm.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\UDP_Study_Server\\UdpReceiverForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "UDP_Study_Server\\UdpReceiverForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:01:00.117Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "COMMON",
               "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\COMMON\\COMMON.csproj",
               "RelativeDocumentMoniker": "COMMON\\COMMON.csproj",
               "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\COMMON\\COMMON.csproj",
               "RelativeToolTip": "COMMON\\COMMON.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-02T09:41:42.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T09:41:42.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 25,
               "Title": "TCP_Study",
               "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\TCP_Study\\TCP_Study.csproj",
               "RelativeDocumentMoniker": "TCP_Study\\TCP_Study.csproj",
               "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\TCP_Study\\TCP_Study.csproj",
               "RelativeToolTip": "TCP_Study\\TCP_Study.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-02T09:41:25.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T09:41:25.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Network.cs",
-              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\COMMON\\Network.cs",
-              "RelativeDocumentMoniker": "COMMON\\Network.cs",
-              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\COMMON\\Network.cs",
-              "RelativeToolTip": "COMMON\\Network.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAcwIEAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "PacketModels.cs",
+              "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\COMMON\\PacketModels.cs",
+              "RelativeDocumentMoniker": "COMMON\\PacketModels.cs",
+              "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\COMMON\\PacketModels.cs",
+              "RelativeToolTip": "COMMON\\PacketModels.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwCcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T09:32:21.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 30,
               "Title": "ClientForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\TCP_Study\\ClientForm.Designer.cs",
               "RelativeDocumentMoniker": "TCP_Study\\ClientForm.Designer.cs",
@@ -103,12 +467,11 @@
               "RelativeToolTip": "TCP_Study\\ClientForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T07:27:21.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T07:27:21.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 27,
               "Title": "ClientForm.cs",
               "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\TCP_Study\\ClientForm.cs",
               "RelativeDocumentMoniker": "TCP_Study\\ClientForm.cs",
@@ -116,37 +479,35 @@
               "RelativeToolTip": "TCP_Study\\ClientForm.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAYwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T07:27:08.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T07:27:08.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 28,
               "Title": "ClientForm.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\TCP_Study\\ClientForm.cs",
               "RelativeDocumentMoniker": "TCP_Study\\ClientForm.cs",
               "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\TCP_Study\\ClientForm.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "TCP_Study\\ClientForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T07:26:57.3Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2026-03-01T07:26:57.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 23,
               "Title": "ServerForm.cs",
               "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\TCP_Study\\ServerForm.cs",
               "RelativeDocumentMoniker": "TCP_Study\\ServerForm.cs",
               "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\TCP_Study\\ServerForm.cs",
               "RelativeToolTip": "TCP_Study\\ServerForm.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAMwE4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAD4v04AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-01T07:03:20.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\TCP_Study\\Program.cs",
               "RelativeDocumentMoniker": "TCP_Study\\Program.cs",
@@ -158,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 31,
               "Title": "ServerForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\TCP_Study\\ServerForm.Designer.cs",
               "RelativeDocumentMoniker": "TCP_Study\\ServerForm.Designer.cs",
@@ -166,20 +527,18 @@
               "RelativeToolTip": "TCP_Study\\ServerForm.Designer.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwCwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T07:01:37.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T07:01:37.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 24,
               "Title": "ServerForm.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\TCP_Study\\ServerForm.cs",
               "RelativeDocumentMoniker": "TCP_Study\\ServerForm.cs",
               "ToolTip": "C:\\Users\\ycKwon\\Documents\\GitHub\\TCP_UDP_CSharp_WINFORM\\TCP_UDP_Study\\TCP_Study\\ServerForm.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "TCP_Study\\ServerForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T06:58:44.246Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2026-03-01T06:58:44.246Z"
             }
           ]
         }

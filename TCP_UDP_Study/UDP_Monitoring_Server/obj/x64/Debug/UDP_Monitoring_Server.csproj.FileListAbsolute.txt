@@ -1,0 +1,11 @@
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\bin\x64\Debug\UDP_Monitoring_Server.exe.config
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\bin\x64\Debug\UDP_Monitoring_Server.exe
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\bin\x64\Debug\UDP_Monitoring_Server.pdb
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\UDP_Monitoring_Server\obj\x64\Debug\UDP_Monitoring_Server.csproj.AssemblyReference.cache
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\UDP_Monitoring_Server\obj\x64\Debug\UDP_Monitoring_Server.Properties.Resources.resources
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\UDP_Monitoring_Server\obj\x64\Debug\UDP_Monitoring_Server.csproj.GenerateResource.cache
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\UDP_Monitoring_Server\obj\x64\Debug\UDP_Monitoring_Server.csproj.CoreCompileInputs.cache
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\UDP_Monitoring_Server\obj\x64\Debug\UDP_Moni.76CA9537.Up2Date
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\UDP_Monitoring_Server\obj\x64\Debug\UDP_Monitoring_Server.exe
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\UDP_Monitoring_Server\obj\x64\Debug\UDP_Monitoring_Server.pdb
+C:\Users\ycKwon\Documents\GitHub\TCP_UDP_CSharp_WINFORM\TCP_UDP_Study\UDP_Monitoring_Server\obj\x64\Debug\UDP_Monitoring_Server.exe.config
